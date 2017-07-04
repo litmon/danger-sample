@@ -1,4 +1,4 @@
-This is sample text.
+his is sample text.
 Second line.
 
 I like a pineapple.
