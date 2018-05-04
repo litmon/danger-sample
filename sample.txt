@@ -1,5 +1,6 @@
-This is sample text.
+This is somple text.
 Second line.
+Third line
 
 I like a pineapple.
 I play the bass guiter
